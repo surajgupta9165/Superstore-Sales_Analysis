@@ -46,4 +46,4 @@ Ensure you have **Tableau Public** or **Tableau Desktop** installed:
 ## 🔗 Related Resources  
 
 - 📊 [Tableau Official Documentation](https://help.tableau.com/)  
-- 🏆 [Sample Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets) *(if applicable)*  
+- 🏆 [Sample Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets) 
